@@ -1,3 +1,0 @@
-[submodule ".github/workflows"]
-	path = .github/workflows
-	url = git@github.com:thlava-cesnet/actions-test.git
